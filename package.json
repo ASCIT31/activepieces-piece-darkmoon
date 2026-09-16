@@ -1,0 +1,38 @@
+{
+  "name": "activepieces-piece-darkmoon",
+  "version": "0.1.0",
+  "description": "Activepieces community piece for Darkmoon — trigger an AI penetration test against an authorised target, pull back the findings, and review the fix pull requests it prepares.",
+  "keywords": [
+    "activepieces",
+    "activepieces-piece",
+    "darkmoon",
+    "pentest",
+    "security",
+    "dast",
+    "appsec",
+    "vulnerability"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ASCIT31/activepieces-piece-darkmoon"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "node --test test/*.test.mjs"
+  },
+  "peerDependencies": {
+    "@activepieces/pieces-framework": "^0.32.0"
+  },
+  "dependencies": {
+    "@activepieces/pieces-common": "^0.12.5"
+  },
+  "devDependencies": {
+    "@activepieces/pieces-framework": "^0.32.0",
+    "@types/node": "^22.20.3",
+    "typescript": "^5.5.4"
+  }
+}
