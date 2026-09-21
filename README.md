@@ -22,6 +22,14 @@ An [Activepieces](https://www.activepieces.com) community piece for [Darkmoon](h
 
 <sub>The open source Darkmoon CLI, a specialist sub-agent session flagging CVE-2019-9978, the terminal engine an Activepieces flow triggers to return findings.</sub>
 
+<br>
+
+<img src=".github/assets/dashboard.png" alt="Pro web dashboard, Darkmoon campaigns and severity breakdown" width="90%">
+
+<sub><b>Pro:</b> the paid Darkmoon Pro web dashboard, campaigns, severity breakdown and findings. Remediation pull requests are also a Pro tier feature.</sub>
+
+<sub><b>Web dashboard and remediation are Darkmoon Pro (paid) features; the open source edition is the CLI shown above.</b></sub>
+
 </div>
 
 It lets an Activepieces flow **trigger a Darkmoon pentest against a target you are authorised to assess, pull back the findings, and review the fix pull requests the Darkmoon Pro remediation tier prepares**, so security testing and remediation review can be wired into your automations like any other step.
