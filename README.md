@@ -1,12 +1,28 @@
+<div align="center">
+
+<a href="https://github.com/ASCIT31/Dark-Moon"><img src=".github/assets/darkmoon-banner.png" alt="Darkmoon, autonomous AI penetration testing" width="100%"></a>
+
 # activepieces-piece-darkmoon
 
 ### Part of [Darkmoon, the open source autonomous AI penetration testing platform](https://github.com/ASCIT31/Dark-Moon)
 
 [![Star Dark-Moon](https://img.shields.io/github/stars/ASCIT31/Dark-Moon?style=social)](https://github.com/ASCIT31/Dark-Moon)
 
+[![Activepieces community piece](https://img.shields.io/badge/Activepieces-community%20piece-2667FF)](https://www.activepieces.com) [![License MIT](https://img.shields.io/badge/license-MIT-0A2472)](LICENSE) [![Local & privacy-first](https://img.shields.io/badge/engine-local%20%26%20privacy--first-87BFFF)](https://dark-moon.org) [![Website](https://img.shields.io/badge/site-dark--moon.org-0A2472)](https://dark-moon.org)
+
+</div>
+
 If Darkmoon is useful, a star on the [main repo](https://github.com/ASCIT31/Dark-Moon) helps others find it.
 
 An [Activepieces](https://www.activepieces.com) community piece for [Darkmoon](https://github.com/ASCIT31/Dark-Moon), the local, privacy-first autonomous AI penetration testing engine.
+
+<div align="center">
+
+<img src=".github/assets/dashboard.png" alt="The Darkmoon dashboard showing campaigns, severity breakdown and findings an Activepieces flow can pull back" width="90%">
+
+<sub>The Darkmoon dashboard, campaigns, severity breakdown and the findings an Activepieces flow pulls back.</sub>
+
+</div>
 
 It lets an Activepieces flow **trigger a Darkmoon pentest against a target you are authorised to assess, pull back the findings, and review the fix pull requests the Darkmoon Pro remediation tier prepares**, so security testing and remediation review can be wired into your automations like any other step.
 
