@@ -1,8 +1,14 @@
 # activepieces-piece-darkmoon
 
-An [Activepieces](https://www.activepieces.com) community piece for [Darkmoon](https://github.com/ASCIT31/Dark-Moon) — the local, privacy-first autonomous AI penetration-testing engine.
+### Part of [Darkmoon, the open source autonomous AI penetration testing platform](https://github.com/ASCIT31/Dark-Moon)
 
-It lets an Activepieces flow **trigger a Darkmoon pentest against a target you are authorised to assess, pull back the findings, and review the fix pull requests Darkmoon prepares** — so security testing and remediation review can be wired into your automations like any other step.
+[![Star Dark-Moon](https://img.shields.io/github/stars/ASCIT31/Dark-Moon?style=social)](https://github.com/ASCIT31/Dark-Moon)
+
+If Darkmoon is useful, a star on the [main repo](https://github.com/ASCIT31/Dark-Moon) helps others find it.
+
+An [Activepieces](https://www.activepieces.com) community piece for [Darkmoon](https://github.com/ASCIT31/Dark-Moon), the local, privacy-first autonomous AI penetration testing engine.
+
+It lets an Activepieces flow **trigger a Darkmoon pentest against a target you are authorised to assess, pull back the findings, and review the fix pull requests the Darkmoon Pro remediation tier prepares**, so security testing and remediation review can be wired into your automations like any other step.
 
 > Darkmoon **runs and validates** security tests. It does not, and this piece does not, guarantee that a system is secure. Findings can include false positives and must be reviewed by a qualified human. Only run assessments against systems you own or have explicit written authorisation to test. **This piece never merges a pull request** — every fix is left for a person to review and merge.
 
