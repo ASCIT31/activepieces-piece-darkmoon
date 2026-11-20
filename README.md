@@ -24,9 +24,9 @@ An [Activepieces](https://www.activepieces.com) community piece for [Darkmoon](h
 
 <br>
 
-<img src=".github/assets/dashboard.png" alt="Pro web dashboard, Darkmoon campaigns and severity breakdown" width="90%">
+<img src=".github/assets/pro-dashboard.png" alt="Pro web dashboard, Darkmoon statistics, vulnerabilities by severity and a security posture table with a Cyber Score grade per project" width="90%">
 
-<sub><b>Pro:</b> the paid Darkmoon Pro web dashboard, campaigns, severity breakdown and findings. Remediation pull requests are also a Pro tier feature.</sub>
+<sub><b>Pro:</b> the paid Darkmoon Pro web dashboard: projects, targets, campaigns and vulnerabilities by severity, with each project's Cyber Score grade, latest assessment and first treatment action. Remediation pull requests are also a Pro tier feature.</sub>
 
 <sub><b>Web dashboard and remediation are Darkmoon Pro (paid) features; the open source edition is the CLI shown above.</b></sub>
 
